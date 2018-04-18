@@ -1,3 +1,4 @@
+<?php
 class Database {
 	 $username = 'jic5'; 
 	 $password ='aaREdyDI';
@@ -93,3 +94,4 @@ class UserDatabase {
 }
 
 static
+>
